@@ -108,3 +108,4 @@ const reducirElementos = (arr, callback, valorInicial) => {
 	}
 	return acumulador;
 };
+
